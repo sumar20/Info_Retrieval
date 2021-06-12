@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+header {
+    text-align: center;
+}
+.container {
+    height: 256px;
+}
+th, td {
+    padding: 25px;
+}
+
+#enter {
+    width: 500px;
+}
+.input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+}
+
+.search {
+    width: 50%;
+    margin-left: 5px;
+}
